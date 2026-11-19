@@ -36,7 +36,7 @@ Full report: [`docs/thesis.pdf`](docs/thesis.pdf)
 ```
 ## Internal Connection Circuit
 
-[![Image](docs/media/internal_connection.png)]
+[![Image](docs/media/internal_connection.PNG)]
 
 ---
 
