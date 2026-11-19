@@ -2,8 +2,6 @@
 
 A small autonomous car prototype built on a Raspberry Pi 3B+ and an Arduino Uno R3. The Raspberry Pi processes camera frames to follow lane markings and detect stop signs and traffic lights with Haar cascade classifiers. It then sends a 4-bit command to the Arduino, which drives the motors through an L298N H-bridge. An ultrasonic sensor connected to the Arduino handles obstacle detection.
 
-Full report: [`docs/thesis.pdf`](docs/thesis.pdf)
-
 ---
 
 ## Features
